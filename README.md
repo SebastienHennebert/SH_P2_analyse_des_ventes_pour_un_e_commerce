@@ -1,4 +1,4 @@
-English version below
+*English version below*
 
 **Projet 2 de la formation Data Analyst Openclassrooms : ANALYSE DES VENTES POUR UN E-COMMERCE**
 
