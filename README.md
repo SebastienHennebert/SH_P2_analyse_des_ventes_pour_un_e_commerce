@@ -11,6 +11,9 @@ Mission : Elaborer le rapport mensuel des actions marketing pour Le Grand March�
 Démarche : Présentation ppt pour le rapport mensuel. Rapport des clients affiliés effectué sur excel à partir des données extraites du site.
 
 
+-------------------------------------------------------------------------------------------------------
+
+
 **Project 2 of the OpenClassrooms Data Analyst training: SALES ANALYSIS FOR AN E-COMMERCE PLATFORM**
 
 Project executed using Excel and PowerPoint
